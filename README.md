@@ -15,7 +15,7 @@
 <img src="https://github.com/Bhargavik01/Bhargavik01/blob/main/CCP_logo.png" width="200" height="200">
 <img src= "https://github.com/Bhargavik01/Bhargavik01/blob/main/associate-badge-de.png" width="150" height="200">
 <img src= "https://github.com/Bhargavik01/Bhargavik01/blob/main/PSM1.png" width="200" height="200">
-<img src= "https://github.com/Bhargavik01/Bhargavik01/blob/main/Lakehouse%20Fundamentals%20Badge.png" width="210" height="260" style="vertical-align:middle;">
+<img src= "https://github.com/Bhargavik01/Bhargavik01/blob/main/Lakehouse%20Fundamentals%20Badge.png"width="200" height="200" >
 </p>
 
 
