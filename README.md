@@ -3,9 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhargavik01&color=blue)
 
 💡 **About Me:**  
-- 🔭 I’m working on SQL & PySpark pipelines  
-- 🌱 Certified Data Engineer
-- 🎯 Goal: Master data engineering  
+- 🔭 I’m working on SQL & Python 
+- 🌱 Certified Data Engineer 
 - 💬 Ask me about: SQL, Python, Azure, AWS  
 
 
